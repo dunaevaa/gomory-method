@@ -1,1 +1,1 @@
-# gomory-method-
+# gomory-method
